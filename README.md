@@ -72,4 +72,4 @@ Power BI Desktop, DAX, Power Query
 
 ## Author
 
-Your Name · [LinkedIn](https://www.linkedin.com/) · Online internship project
+Shweta Mindhe· [LinkedIn](https://www.linkedin.com/) · Online internship project
