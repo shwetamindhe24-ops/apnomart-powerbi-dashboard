@@ -10,9 +10,9 @@ Apno Mart earns **16.26M revenue at a 27.18% margin**, but **Electronics is the 
 
 | Page | Focus | Preview |
 |---|---|---|
-| 1. Revenue Overview | Revenue, profit, orders, category share, regions, top products, weekly pattern | ![Page 1](images/page1-revenue-overview.png) |
-| 2. Profitability Deep-Dive | Margin by category and region, profit share vs revenue share, loss orders, discount impact | ![Page 2](images/page2-profitability.png) |
-| 3. Customer Segmentation | Segments, payment methods, average order value by segment and payment | ![Page 3](images/page3-customers.png) |
+| 1. Revenue Overview | Revenue, profit, orders, category share, regions, top products, weekly pattern | ![Page 1](page1-revenue-overview.png) |
+| 2. Profitability Deep-Dive | Margin by category and region, profit share vs revenue share, loss orders, discount impact | ![Page 2](page2-profitability.png) |
+| 3. Customer Segmentation | Segments, payment methods, average order value by segment and payment | ![Page 3](page3-customers.png) |
 
 ## Key Metrics
 
